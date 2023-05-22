@@ -1,10 +1,14 @@
 # NYC Taxi Data Analysis
 
 ## Introduction
-Welcome to this comprehensive analysis project focused on the fascinating world of New York City's Yellow Taxi services. In the bustling streets of the city that never sleeps, these iconic taxis paint a vivid picture of the urban ebb and flow. We aim to illuminate the intricate dynamics of the NYC Yellow Taxi service and provide data-driven insights that could influence future operational, pricing, and technological decisions.
+The attached dataset contains a sample from the Yellow Taxi Trip Records Data Set provided by the TLC of NYC.
+
+With this dataset I will study has a lot of details like pick-up and drop-off times, locations, passenger counts, trip distances, and payment types. With this data, I will try to find patterns and trends that are not easy to see.
 
 ## Dataset
-The dataset we explore is the Yellow Taxi Trip Records, provided by the Taxi and Limousine Commission (TLC) of New York City. The data captures rich details such as pick-up and drop-off times, locations, passenger counts, trip distances, and payment types.
+The dataset I explore is the Yellow Taxi Trip Records, provided by the Taxi and Limousine Commission (TLC) of New York City. 
+The data can be found [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+The data dictionary can be found [here](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
 
 ## Methods Used
 - Data cleaning
@@ -25,9 +29,12 @@ The project is structured as follows:
 
 5. __Conclusion and Management Summary:__ Encapsulates key findings and provides a summary that caters to decision-makers. This section translates our data-driven insights into actionable recommendations.
 
-├── data # Folder for raw data
-├── notebooks # Jupyter notebooks for analysis
-├── figures # Graphs, plots, etc.
+├── [data](/data) # Folder for raw data
+
+├── [notebooks](/notebooks) # Jupyter notebooks for analysis
+
+├── [images](/images) # Graphs, plots, etc.
+
 └── README.md # The top-level README for developers using this project.
 
 ## Author
